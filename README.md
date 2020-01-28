@@ -1,2 +1,4 @@
-Code used to scrape pathways from the online database https://www.genome.jp/kegg-bin/get_htext?ko00002.keg
-Final result stored in a pickle file
+WEBSCRAPING BIOLOGICAL MODULES 
+
+Code used to scrape pathway modules and signature modules from the online database https://www.genome.jp/kegg-bin/get_htext?ko00002.keg
+
